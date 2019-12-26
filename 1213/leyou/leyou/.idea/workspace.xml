@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e25a7075-a91e-4bf5-8b3b-8e167fa2f8b6" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leyou" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>分页</find>
+      <find>getCookie</find>
+      <find>querySpuById</find>
+      <find>queryOrders</find>
+      <find>logger</find>
+      <find>redis</find>
+      <find>spring-boot-starter-data-redis</find>
+      <find>getOrderName</find>
+      <find>queryOrder</find>
+    </findStrings>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javatool/maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\javatool\maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VN0LeWByy7TNXuUyjPrZXjoOZT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/leyou/leyou/leyou-auth/leyou-auth-common/src/main/java/com/leyou/common/utils/JwtUtils.java&#10;主题&#9;null&#9;null&#10;分辨率&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../leyou-manage-web/leyou-manage-web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.order.interceptor" />
+      <recent name="com.leyou.order.client" />
+      <recent name="com.leyou.seckill.service" />
+      <recent name="com.leyou.seckill.interceptor" />
+      <recent name="com.leyou.seckill.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_WORKSPACE\1213\leyou\leyou\leyou-seckill\leyou-seckill-service\src\main\java\com\leyou" />
+      <recent name="D:\IDEA_WORKSPACE\1213\leyou\leyou\leyou-seckill\leyou-seckill-service\src\main\java\com\leyou\seckill\controller" />
+      <recent name="D:\IDEA_WORKSPACE\1213\leyou\leyou\leyou-seckill\leyou-seckill-interface\src\main\java\com\leyou\seckill\pojo" />
+      <recent name="D:\IDEA_WORKSPACE\1213\leyou\leyou\leyou-seckill\leyou-seckill-service\src\main\resources" />
+      <recent name="D:\IDEA_WORKSPACE\1213\leyou1209\leyou\ly-order\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElasticsearchTest.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-serach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.elasticsearch.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.elasticsearch.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.elasticsearch.test.ElasticsearchTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.testGenerateToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.auth.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.auth.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.auth.test.JwtTest" />
+      <option name="METHOD_NAME" value="testGenerateToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.testParseToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.auth.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.auth.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.auth.test.JwtTest" />
+      <option name="METHOD_NAME" value="testParseToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.testRsa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.auth.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.auth.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.auth.test.JwtTest" />
+      <option name="METHOD_NAME" value="testRsa" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.user.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.user.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.user.test.RedisTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouGoodsWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouAuthAppcalition" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouAuthAppcalition" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouItemApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouResgistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouResgistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-serach" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-seckill-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouSeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouUserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LyOrderService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ly-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LyOrderService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticsearchTest.test" />
+      <item itemvalue="JUnit.JwtTest.testGenerateToken" />
+      <item itemvalue="JUnit.JwtTest.testParseToken" />
+      <item itemvalue="JUnit.RedisTest.testRedis" />
+      <item itemvalue="JUnit.JwtTest.testRsa" />
+      <item itemvalue="Spring Boot.LeyouItemApplication" />
+      <item itemvalue="Spring Boot.LeyouAuthAppcalition" />
+      <item itemvalue="Spring Boot.LeyouGatewayApplication" />
+      <item itemvalue="Spring Boot.LeyouSmsApplication" />
+      <item itemvalue="Spring Boot.LeyouSearchApplication" />
+      <item itemvalue="Spring Boot.LeyouUserApplication" />
+      <item itemvalue="Spring Boot.GoodsWebApplication" />
+      <item itemvalue="Spring Boot.LeyouResgistryApplication" />
+      <item itemvalue="Spring Boot.LyOrderService" />
+      <item itemvalue="Spring Boot.LeyouUploadApplication" />
+      <item itemvalue="Spring Boot.LeyouCartApplication" />
+      <item itemvalue="Spring Boot.LeyouSeckillApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JwtTest.testRsa" />
+        <item itemvalue="JUnit.RedisTest.testRedis" />
+        <item itemvalue="JUnit.JwtTest.testParseToken" />
+        <item itemvalue="JUnit.JwtTest.testGenerateToken" />
+        <item itemvalue="JUnit.ElasticsearchTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25a7075-a91e-4bf5-8b3b-8e167fa2f8b6" name="Default" comment="" />
+      <created>1566978484701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566978484701</updated>
+      <workItem from="1566978489526" duration="1779000" />
+      <workItem from="1566980614639" duration="53000" />
+      <workItem from="1566980702402" duration="4944000" />
+      <workItem from="1567059762462" duration="5100000" />
+      <workItem from="1567581355976" duration="6223000" />
+      <workItem from="1567667488654" duration="5444000" />
+      <workItem from="1567686641935" duration="24000" />
+      <workItem from="1567686685557" duration="20000" />
+      <workItem from="1567753930523" duration="5250000" />
+      <workItem from="1567989969535" duration="6205000" />
+      <workItem from="1568023705118" duration="2670000" />
+      <workItem from="1568076237042" duration="3973000" />
+      <workItem from="1568448288865" duration="6945000" />
+      <workItem from="1568529321675" duration="3273000" />
+      <workItem from="1568701575100" duration="4649000" />
+      <workItem from="1568716681010" duration="154000" />
+      <workItem from="1568717454329" duration="15000" />
+      <workItem from="1568718025129" duration="747000" />
+      <workItem from="1568788225783" duration="6982000" />
+      <workItem from="1568959465192" duration="6807000" />
+      <workItem from="1569047274605" duration="5936000" />
+      <workItem from="1569058290393" duration="8000" />
+      <workItem from="1569061295643" duration="376000" />
+      <workItem from="1569136272624" duration="1041000" />
+      <workItem from="1569157013928" duration="1248000" />
+      <workItem from="1569309310475" duration="621000" />
+      <workItem from="1569394583980" duration="2680000" />
+      <workItem from="1569495591377" duration="45000" />
+      <workItem from="1569566228933" duration="14863000" />
+      <workItem from="1569584050019" duration="8000" />
+      <workItem from="1569655173458" duration="6690000" />
+      <workItem from="1569740695574" duration="12005000" />
+      <workItem from="1569757523852" duration="320000" />
+      <workItem from="1569837147256" duration="4474000" />
+      <workItem from="1569905653480" duration="299000" />
+      <workItem from="1569906016033" duration="515000" />
+      <workItem from="1569913450915" duration="1623000" />
+      <workItem from="1569997634899" duration="11202000" />
+      <workItem from="1570086077566" duration="5012000" />
+      <workItem from="1570170708026" duration="9023000" />
+      <workItem from="1570187871884" duration="417000" />
+      <workItem from="1570259123593" duration="8757000" />
+      <workItem from="1570516379905" duration="7084000" />
+      <workItem from="1570606694122" duration="5298000" />
+      <workItem from="1570617459184" duration="121000" />
+      <workItem from="1570617673319" duration="2324000" />
+      <workItem from="1570702639789" duration="3598000" />
+      <workItem from="1570779309233" duration="3927000" />
+      <workItem from="1570797192291" duration="511000" />
+      <workItem from="1570798327007" duration="78000" />
+      <workItem from="1570867295091" duration="2955000" />
+      <workItem from="1570871103145" duration="1162000" />
+      <workItem from="1570878545029" duration="7184000" />
+      <workItem from="1570950534340" duration="12228000" />
+      <workItem from="1571050353135" duration="3495000" />
+      <workItem from="1571057742507" duration="595000" />
+      <workItem from="1571211442619" duration="6691000" />
+      <workItem from="1571311983950" duration="5387000" />
+      <workItem from="1571396491966" duration="4075000" />
+      <workItem from="1571400805491" duration="2335000" />
+      <workItem from="1571483339909" duration="5818000" />
+      <workItem from="1571570047371" duration="599000" />
+      <workItem from="1571725920414" duration="10252000" />
+      <workItem from="1571813445772" duration="5752000" />
+      <workItem from="1571915777662" duration="634000" />
+      <workItem from="1571924365950" duration="17000" />
+      <workItem from="1571966484345" duration="6385000" />
+      <workItem from="1572088842566" duration="113000" />
+      <workItem from="1572142260805" duration="3457000" />
+      <workItem from="1572228633329" duration="10974000" />
+      <workItem from="1572312094308" duration="5145000" />
+      <workItem from="1572397357239" duration="2559000" />
+      <workItem from="1572399963938" duration="3973000" />
+      <workItem from="1572483981434" duration="2899000" />
+      <workItem from="1572571696332" duration="2926000" />
+      <workItem from="1572614775525" duration="1227000" />
+      <workItem from="1573520798880" duration="4216000" />
+      <workItem from="1573541635519" duration="4414000" />
+      <workItem from="1573694941062" duration="2569000" />
+      <workItem from="1573728623048" duration="3645000" />
+      <workItem from="1573801958289" duration="4414000" />
+      <workItem from="1573866492695" duration="1614000" />
+      <workItem from="1574039337040" duration="693000" />
+      <workItem from="1574126105434" duration="1582000" />
+      <workItem from="1574148199961" duration="2771000" />
+      <workItem from="1574300804199" duration="263000" />
+      <workItem from="1574301080420" duration="2964000" />
+      <workItem from="1574384423006" duration="5292000" />
+      <workItem from="1574471703311" duration="6179000" />
+      <workItem from="1574596714379" duration="3050000" />
+      <workItem from="1574644290065" duration="3570000" />
+      <workItem from="1574731137194" duration="1978000" />
+      <workItem from="1574749652827" duration="5018000" />
+      <workItem from="1574761996769" duration="1995000" />
+      <workItem from="1574829113824" duration="2377000" />
+      <workItem from="1574837269854" duration="714000" />
+      <workItem from="1574857371780" duration="889000" />
+      <workItem from="1574904528730" duration="1109000" />
+      <workItem from="1574941112397" duration="1234000" />
+      <workItem from="1575010989885" duration="2097000" />
+      <workItem from="1575027173952" duration="1375000" />
+      <workItem from="1575077895724" duration="732000" />
+      <workItem from="1575097040988" duration="902000" />
+      <workItem from="1575180869206" duration="878000" />
+      <workItem from="1575199488710" duration="866000" />
+      <workItem from="1575255128012" duration="619000" />
+      <workItem from="1575270244246" duration="274000" />
+      <workItem from="1575283037787" duration="775000" />
+      <workItem from="1575335106349" duration="1035000" />
+      <workItem from="1575356341232" duration="4235000" />
+      <workItem from="1575378340962" duration="678000" />
+      <workItem from="1575426517348" duration="2877000" />
+      <workItem from="1575440211683" duration="5897000" />
+      <workItem from="1575454554718" duration="1358000" />
+      <workItem from="1575506280228" duration="14920000" />
+      <workItem from="1575545317178" duration="9273000" />
+      <workItem from="1575600924353" duration="615000" />
+      <workItem from="1575615258179" duration="2118000" />
+      <workItem from="1575679728921" duration="429000" />
+      <workItem from="1575680182909" duration="20810000" />
+      <workItem from="1575730992017" duration="18000" />
+      <workItem from="1575767786581" duration="1311000" />
+      <workItem from="1575785447106" duration="12530000" />
+      <workItem from="1575810880085" duration="101000" />
+      <workItem from="1575812511915" duration="1815000" />
+      <workItem from="1575850164060" duration="10153000" />
+      <workItem from="1575879913976" duration="5645000" />
+      <workItem from="1575938522601" duration="19733000" />
+      <workItem from="1576023953647" duration="27312000" />
+      <workItem from="1576112553407" duration="3603000" />
+      <workItem from="1576196783206" duration="13732000" />
+      <workItem from="1576329862218" duration="1098000" />
+      <workItem from="1576333975851" duration="3893000" />
+      <workItem from="1576370069413" duration="17068000" />
+      <workItem from="1576418563311" duration="2806000" />
+      <workItem from="1576454609391" duration="21755000" />
+      <workItem from="1576493074350" duration="6484000" />
+      <workItem from="1576540992483" duration="18065000" />
+      <workItem from="1576664820814" duration="4567000" />
+      <workItem from="1576757164478" duration="4051000" />
+      <workItem from="1577078196842" duration="82000" />
+      <workItem from="1577078297646" duration="235000" />
+      <workItem from="1577079218199" duration="102000" />
+      <workItem from="1577185575665" duration="323000" />
+      <workItem from="1577186144871" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JwtTest_testGenerateToken - 2019.10.25 at 11h 01m 01s.xml">
+      <configuration name="JwtTest.testGenerateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testGenerateToken - 2019.10.25 at 11h 12m 46s.xml">
+      <configuration name="JwtTest.testGenerateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testGenerateToken - 2019.10.25 at 11h 13m 04s.xml">
+      <configuration name="JwtTest.testGenerateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testParseToken - 2019.10.25 at 11h 01m 22s.xml">
+      <configuration name="JwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testParseToken - 2019.10.25 at 11h 13m 27s.xml">
+      <configuration name="JwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testParseToken - 2019.11.19 at 15h 24m 44s.xml">
+      <configuration name="JwtTest.testParseToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2019.10.25 at 10h 55m 18s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2019.10.25 at 11h 00m 53s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2019.10.25 at 11h 12m 31s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_testRedis - 2019.10.12 at 16h 03m 57s.xml">
+      <configuration name="RedisTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="907" y="290" key="FileChooserDialogImpl" timestamp="1577186189259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="907" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577186189259" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577186146445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577186146445" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/SpecificationService.java</url>
+          <line>24</line>
+          <properties class="com.leyou.item.service.SpecificationService" method="queryGroupsByCid">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java</url>
+          <line>39</line>
+          <properties class="com.leyou.gateway.filter.LoginFilter" method="shouldFilter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/leyou-auth/leyou-auth-common/src/main/java/com/leyou/common/utils/JwtUtils.java</url>
+          <line>72</line>
+          <properties class="com.leyou.common.utils.JwtUtils" method="parserToken">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/BrandService.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/BrandService.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/controller/CartController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-cart/src/main/java/com/leyou/cart/service/CartService.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/CategoryReportController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/CategoryReportService.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-gateway/src/main/java/com/leyou/gateway/filter/LoginFilter.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/BrandService.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/utils/PayHelper.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/controller/OrderController.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/controller/OrderController.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/upload/service/UploadService.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/controller/PreferentialController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-order/src/main/java/com/leyou/order/service/PreferentialService.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="request.page" />
+        <watch expression="queryBuilder" />
+        <watch expression="queryBuilder" language="JAVA" />
+        <watch expression="request.page" language="JAVA" />
+        <watch expression="queryBuilder.aggregationBuilders" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leyou-seckill-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
